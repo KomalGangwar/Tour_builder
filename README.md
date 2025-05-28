@@ -64,6 +64,15 @@ Tour_builder/
 └── package.json            # Project metadata and dependencies
 
 ```
+## Screenshots
+
+![App Screenshot](https://github.com/KomalGangwar/Tour_builder/blob/a713dd3a794e15fb515f7d408b66038ff40b2982/src/image/Screenshot%20(4).png)
+
+![App Screenshot](https://github.com/KomalGangwar/Tour_builder/blob/a713dd3a794e15fb515f7d408b66038ff40b2982/src/image/Screenshot%20(5).png)
+
+![App Screenshot](https://github.com/KomalGangwar/Tour_builder/blob/a713dd3a794e15fb515f7d408b66038ff40b2982/src/image/Screenshot%20(6).png)
+
+![App Screenshot](https://github.com/KomalGangwar/Tour_builder/blob/a713dd3a794e15fb515f7d408b66038ff40b2982/src/image/Screenshot%20(7).png)
 
 ##  Future Enhancements
 
